@@ -2,11 +2,11 @@
 
 
 
-public class MyFunkyPrint(String s) {
-	System.out.println(s);
-    }
+//public class MyFunkyPrint(String s) {
+//	System.out.println(s);
+//   }
 
-public class HelloWorld {
+public class funky {
 
     public static void main(String[] args) {
     // Prints "Hello, World" to the terminal window.
